@@ -1,6 +1,0 @@
-@Library('todoapp') _
-
-docker (
-  COMPONENT          : 'redis',
-  PROJECT_NAME       : "TodoApp"
-)
